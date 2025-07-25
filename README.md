@@ -47,3 +47,8 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+### :fire: My every day :fire::
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpka2F1dDVmZzQyZXEyeGM2cjNibWppYTlrNm1odHo2M3h0enhiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VYdgE52Ik7Cc7vBrGA/giphy.gif" width="450px" height="300px"/>
