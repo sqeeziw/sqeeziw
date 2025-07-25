@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZ2YzMzYjJ4MzRvbGttcGYzeDRrZDFqZWt3enRremxsd2l3MmoxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5EOYACH9SWWA45b4Bp/giphy.gif" width="200" height="200"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejUwMHNjNnl6bzUwa2g1MWs5M2d2cng0N2JiaXNna2p2ZHJ6eHJjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wIe5KUoFk7kQdaNxTp/giphy.gif" width="200" height="200"/>
   
   <div id="badges">
     <a href="https://vk.com/sqeeziw">
