@@ -17,6 +17,9 @@
 
 
 
+
+
+
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDIwbHNidmdheHYxYjdkZTRuNDUyY2VjMTJjbjlmcWJycTZtZWlkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VpxpIm1coCLZzvgCtB/giphy.gif" width="600" height="300"/>
 </div>
@@ -40,6 +43,22 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://play-lh.googleusercontent.com/MYbOqQn6EgghsBP0Dh43kyweBbFPcD1Ig1GL8I2xvVFAad-T46RQg9ZrUOpWSgwDWqSo" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ---
 
