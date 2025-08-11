@@ -5,7 +5,7 @@
     <a href="https://vk.com/sqeeziw">
       <img src="https://img.shields.io/badge/VK-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="VK"/>
     </a>
-    <a href="https://www.youtube.com/@craftlite55">
+    <a href="https://www.youtube.com/@craftlite53">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
 </div>
