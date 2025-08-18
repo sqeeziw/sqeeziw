@@ -1,73 +1,55 @@
-<div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejUwMHNjNnl6bzUwa2g1MWs5M2d2cng0N2JiaXNna2p2ZHJ6eHJjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wIe5KUoFk7kQdaNxTp/giphy.gif" width="200" height="200"/>
-  
-  <div id="badges">
-    <a href="https://vk.com/sqeeziw">
-      <img src="https://img.shields.io/badge/VK-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="VK"/>
-    </a>
-    <a href="https://www.youtube.com/@craftlite53">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-</div>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
+### Hi, I'm Alen Jojo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<p align="center">
+  <a href="https://github.com/alenjojo?tab=followers">
+    <img src="https://img.shields.io/github/followers/alenjojo?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/alen_jojo_">
+    <img src="https://img.shields.io/twitter/follow/alen_jojo_?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+ <a href="https://www.alenjojo.com/">
+    <img src="https://img.shields.io/website?label=alenjojo.com&style=for-the-badge&url=https://www.alenjojo.com" />
+  </a>
+</p>
+
+- 🌱 I’m currently learning spigot
+---
+  <img align="left" alt="alenjojo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alenjojo&show_icons=true&theme=radical&hide=stars&line_height=45" /> 
+
+ <img align="right" alt="alenjojo's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alenjojo&count_private=true&line_height=52" /> 
+<br />
+<br />
+ <br />
+<br><br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/alen_jojo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alen_twts" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alenjojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alenjojo" height="30" width="40" /></a>
+</p>
 
 
-
-
-
-
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDIwbHNidmdheHYxYjdkZTRuNDUyY2VjMTJjbjlmcWJycTZtZWlkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VpxpIm1coCLZzvgCtB/giphy.gif" width="600" height="300"/>
-</div>
+<h2 align="left"> Languages and Tools:</h2>
+<p>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+</p>
+<br />
+<br />
 
 ---
 
-### :woman_technologist: About Me 
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I’m working to backend for building web applications.
-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmM0bDBxZjRiNmx5aHZvYmk1bDJxd25ydGhsbWw3cmZmcHdiaDdsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lpHQvZu6stHKo/giphy.gif" width="15"> The main developers are the creator of the Minecraft SmockTime server.
-- :zap: In my free time, I play in <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JsemllY3Vrb2NyZmt2MG51ZDV3cDJldzBvZngxbG1zbXFnZ3p3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8BlByFsU4FZJ41AJpd/giphy.gif" width="20"/>.
-
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://play-lh.googleusercontent.com/MYbOqQn6EgghsBP0Dh43kyweBbFPcD1Ig1GL8I2xvVFAad-T46RQg9ZrUOpWSgwDWqSo" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-
----
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
----
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-### :fire: My every day :fire::
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpka2F1dDVmZzQyZXEyeGM2cjNibWppYTlrNm1odHo2M3h0enhiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VYdgE52Ik7Cc7vBrGA/giphy.gif" width="450px" height="300px"/>
+[twitter]: https://twitter.com/alen_jojo_
+[instagram]: https://instagram.com/mid_space_walker
+[linkedin]: https://www.linkedin.com/in/alenjojo/
