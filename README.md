@@ -1,4 +1,4 @@
-### Hi, I'm Craft <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### Hi, I'm pacman <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
   <div id="badges">
     <a href="https://vk.com/sqeeziw">
